@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BukkitNotTooExpensiveAnvil:jar">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="BukkitNotTooExpensiveAnvil.jar">
+      <element id="module-output" name="BukkitNotTooExpensiveAnvil" />
+    </root>
+  </artifact>
+</component>
